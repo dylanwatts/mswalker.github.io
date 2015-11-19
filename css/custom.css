@@ -96,7 +96,7 @@ header .header-content .header-content-inner p {
 
 .intro {
 	color: #fff;
-    background-color: green;
+    background-color:   green;
     padding: 70px 0;
     text-align: center;
 }
@@ -136,7 +136,9 @@ header .header-content .header-content-inner p {
     background-size: 110%; 
     border: 10px solid rgba(255,255,255,0.3);
     line-height: 160px;
+tranform: rotate(45deg);
 }
+
 
 .promo-item h3 {
     font-size: 40px;
